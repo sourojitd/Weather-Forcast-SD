@@ -1,10 +1,6 @@
 
 <h4 align="center">A minimal java  Weather-Forecast app with awesome UI based on <a href="https://docs.oracle.com/javase/tutorial/uiswing/">Swing</a>.</h4>
 
-<p align="center">
-  <img  src="https://github.com/PanagiotisDrakatos/Weather-Forecast/blob/master/ImagesDoc/ezgif.com-video-to-gif.gif">
-</p>
-
 
 # Basic Overview
 Weather-Forecast app is what the title says it is. It's a quick, simple weather app. The features include the basics, including forecasts, current temperature, hourly forecasts, and more. Other than that, it's really not all that complicated. It's free to download with no in-app purchases and the source code available.
